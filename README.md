@@ -84,9 +84,3 @@ src/main/resources/
 - Construction expense tracking and reporting
 - Advanced analytics and visual reports
 - Deployment to a cloud platform
-
-## Author
-
-**Dhruva Kalambe**
-
-[GitHub Repository](https://github.com/dhruvakalambe/BuildTrack)
