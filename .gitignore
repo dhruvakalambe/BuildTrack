@@ -41,7 +41,6 @@ build/
 application-local.properties
 
 # Packaged demo and database files
-HelpDesk-Demo/
 data/
 *.mv.db
 *.trace.db
